@@ -6,4 +6,4 @@ __Technologies__
 * path
 * express
 
-The site can be viewd at: https://young-cove-10725.herokuapp.com/
+The site can be viewd at: 
